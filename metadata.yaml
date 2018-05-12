@@ -1,0 +1,28 @@
+_repo: The-Gambler--A-Novel_33490
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33490-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thurston, Katherine Cecil
+    birthdate: 1875
+    deathdate: 1911
+    gutenberg_agent_id: '1793'
+    url: http://www.gutenberg.org/2009/agents/1793
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Thurston
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'The Gambler: A Novel'
+url: http://www.gutenberg.org/ebooks/33490
